@@ -1,0 +1,249 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.9" tiledversion="1.9.0" orientation="orthogonal" renderorder="left-up" width="28" height="28" tilewidth="128" tileheight="128" infinite="0" nextlayerid="5" nextobjectid="38">
+ <tileset firstgid="1" name="dk_001" tilewidth="128" tileheight="128" tilecount="1" columns="1">
+  <image source="dk_001.png" width="128" height="128"/>
+ </tileset>
+ <tileset firstgid="2" name="dk_002" tilewidth="128" tileheight="128" tilecount="1" columns="1">
+  <image source="dk_002.png" width="128" height="128"/>
+ </tileset>
+ <tileset firstgid="3" name="dk_003" tilewidth="128" tileheight="128" tilecount="1" columns="1">
+  <image source="dk_003.png" width="128" height="128"/>
+ </tileset>
+ <tileset firstgid="4" name="dk_004" tilewidth="128" tileheight="128" tilecount="1" columns="1">
+  <image source="dk_004.png" width="128" height="128"/>
+ </tileset>
+ <tileset firstgid="5" name="dk_005" tilewidth="128" tileheight="128" tilecount="1" columns="1">
+  <image source="dk_005.png" width="128" height="128"/>
+ </tileset>
+ <tileset firstgid="6" name="dk_006" tilewidth="128" tileheight="128" tilecount="1" columns="1">
+  <image source="dk_006.png" width="128" height="128"/>
+ </tileset>
+ <tileset firstgid="7" name="dk_007" tilewidth="128" tileheight="128" tilecount="1" columns="1">
+  <image source="dk_007.png" width="128" height="128"/>
+ </tileset>
+ <tileset firstgid="8" name="dk_008" tilewidth="128" tileheight="128" tilecount="1" columns="1">
+  <image source="dk_008.png" width="128" height="128"/>
+ </tileset>
+ <tileset firstgid="9" name="dk_101" tilewidth="128" tileheight="128" tilecount="1" columns="1">
+  <image source="dk_101.png" width="128" height="128"/>
+ </tileset>
+ <tileset firstgid="10" name="dk_102" tilewidth="128" tileheight="128" tilecount="1" columns="1">
+  <image source="dk_102.png" width="128" height="128"/>
+ </tileset>
+ <tileset firstgid="11" name="dk_103" tilewidth="128" tileheight="128" tilecount="1" columns="1">
+  <image source="dk_103.png" width="128" height="128"/>
+ </tileset>
+ <tileset firstgid="12" name="dk_201" tilewidth="128" tileheight="128" tilecount="1" columns="1">
+  <image source="dk_201.png" width="128" height="128"/>
+ </tileset>
+ <tileset firstgid="13" name="dk_202" tilewidth="128" tileheight="128" tilecount="1" columns="1">
+  <image source="dk_202.png" width="128" height="128"/>
+ </tileset>
+ <tileset firstgid="14" name="dk_203" tilewidth="128" tileheight="128" tilecount="1" columns="1">
+  <image source="dk_203.png" width="128" height="128"/>
+ </tileset>
+ <tileset firstgid="15" name="dk_204" tilewidth="128" tileheight="128" tilecount="1" columns="1">
+  <image source="dk_204.png" width="128" height="128"/>
+ </tileset>
+ <tileset firstgid="16" name="dk_205" tilewidth="128" tileheight="128" tilecount="1" columns="1">
+  <image source="dk_205.png" width="128" height="128"/>
+ </tileset>
+ <tileset firstgid="17" name="dk_206" tilewidth="128" tileheight="128" tilecount="1" columns="1">
+  <image source="dk_206.png" width="128" height="128"/>
+ </tileset>
+ <tileset firstgid="18" name="dk_207" tilewidth="128" tileheight="128" tilecount="1" columns="1">
+  <image source="dk_207.png" width="128" height="128"/>
+ </tileset>
+ <tileset firstgid="19" name="dk_208" tilewidth="128" tileheight="128" tilecount="1" columns="1">
+  <image source="dk_208.png" width="128" height="128"/>
+ </tileset>
+ <tileset firstgid="20" name="zs01" tilewidth="1000" tileheight="714" tilecount="11" columns="0">
+  <grid orientation="orthogonal" width="1" height="1"/>
+  <tile id="0">
+   <properties>
+    <property name="type" value="dm1"/>
+   </properties>
+   <image width="1000" height="714" source="dm_01.png"/>
+  </tile>
+  <tile id="1">
+   <properties>
+    <property name="type" value="dm2"/>
+   </properties>
+   <image width="597" height="418" source="dm_02.png"/>
+  </tile>
+  <tile id="2">
+   <properties>
+    <property name="type" value="dm3"/>
+   </properties>
+   <image width="597" height="418" source="dm_03.png"/>
+  </tile>
+  <tile id="3">
+   <properties>
+    <property name="type" value="dm4"/>
+   </properties>
+   <image width="408" height="200" source="dm_04.png"/>
+  </tile>
+  <tile id="4">
+   <properties>
+    <property name="type" value="dm5"/>
+   </properties>
+   <image width="781" height="332" source="dm_05.png"/>
+  </tile>
+  <tile id="5">
+   <properties>
+    <property name="type" value="dm6"/>
+   </properties>
+   <image width="213" height="103" source="dm_06.png"/>
+  </tile>
+  <tile id="6">
+   <properties>
+    <property name="type" value="dm7"/>
+   </properties>
+   <image width="139" height="68" source="dm_07.png"/>
+  </tile>
+  <tile id="7">
+   <properties>
+    <property name="type" value="dm8"/>
+   </properties>
+   <image width="141" height="83" source="dm_08.png"/>
+  </tile>
+  <tile id="8">
+   <properties>
+    <property name="type" value="dm9"/>
+   </properties>
+   <image width="141" height="83" source="dm_09.png"/>
+  </tile>
+  <tile id="9">
+   <properties>
+    <property name="type" value="dmzd1"/>
+   </properties>
+   <image width="185" height="222" source="dmzd_01.png"/>
+  </tile>
+  <tile id="10">
+   <properties>
+    <property name="type" value="dmzd2"/>
+   </properties>
+   <image width="416" height="470" source="dmzd_02.png"/>
+  </tile>
+ </tileset>
+ <layer id="2" name="图块层 2" width="28" height="28">
+  <data encoding="csv">
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,12,13,14,15,15,15,15,15,15,15,2147483663,2147483663,2147483663,2147483663,2147483663,2147483663,2147483663,2147483662,2147483661,2147483660,0,0,0,0,
+0,0,0,0,0,0,17,18,18,18,18,18,18,18,2147483666,2147483666,2147483666,2147483666,2147483666,2147483666,2147483666,2147483665,0,0,0,0,0,0,
+0,0,0,0,0,0,16,19,19,19,19,19,19,19,19,2147483667,2147483667,2147483667,2147483667,2147483667,2147483667,2147483664,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+</data>
+ </layer>
+ <layer id="1" name="layer1" width="28" height="28">
+  <data encoding="csv">
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,9,9,9,11,9,9,9,9,9,10,11,9,9,11,11,9,9,10,9,9,0,0,0,0,
+0,0,0,1610612745,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,2684354569,0,0,0,
+0,0,0,1610612745,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,2684354569,0,0,0,
+0,0,0,1610612745,1,1,1,6,6,4,4,4,1,1,1,1,1,1,1,1,1,1,1,1,2684354570,0,0,0,
+0,0,0,1610612745,1,1,1,1,1,1,4,4,1,1,1,1,1,1,1,1,1,1,1,1,2684354571,0,0,0,
+0,0,0,1610612745,1,1,1,6,1,1,1,1,1,7,1,1,1,1,1,1,1,1,1,1,2684354569,0,0,0,
+0,0,0,1610612745,1,1,1,1,1,1,1,4,1,1,1,5,1,1,1,1,1,5,1,1,2684354569,0,0,0,
+0,0,0,1610612747,1,1,1,1,1,1,1,1,1,1,6,1,1,1,1,4,1,1,1,1,2684354569,0,0,0,
+0,0,0,1610612746,1,1,1,4,8,1,1,1,6,1,1,1,1,1,1,1,1,1,1,1,2684354571,0,0,0,
+0,0,0,1610612745,1,1,1,4,8,8,1,1,1,1,1,1,1,1,8,1,1,1,1,1,2684354570,0,0,0,
+0,0,0,1610612745,1,1,5,1,4,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,2684354569,0,0,0,
+0,0,0,1610612745,1,1,1,1,1,7,6,4,1,1,1,1,1,1,1,8,1,6,1,1,2684354571,0,0,0,
+0,0,0,1610612747,1,1,1,1,1,1,4,1,1,1,1,6,1,1,1,8,1,1,1,1,2684354569,0,0,0,
+0,0,0,1610612745,1,1,5,1,1,1,1,4,1,1,1,6,1,1,1,8,1,1,1,1,2684354571,0,0,0,
+0,0,0,1610612746,1,1,1,1,5,1,1,1,1,1,1,1,6,4,4,8,1,1,1,1,2684354569,0,0,0,
+0,0,0,1610612745,1,1,1,1,1,1,1,1,1,8,1,1,1,1,1,1,1,1,1,1,2684354569,0,0,0,
+0,0,0,1610612745,1,1,1,1,1,1,1,1,1,1,1,6,1,1,1,1,1,1,1,1,2684354571,0,0,0,
+0,0,0,1610612747,1,1,1,1,6,1,1,1,1,1,1,1,1,7,1,1,1,1,1,1,2684354570,0,0,0,
+0,0,0,1610612745,1,1,1,1,1,8,1,1,1,1,6,1,1,5,1,1,5,1,1,1,2684354569,0,0,0,
+0,0,0,1610612747,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,2684354571,0,0,0,
+0,0,0,1610612745,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,2684354569,0,0,0,
+0,0,0,0,3221225481,3221225483,3221225481,3221225481,3221225483,3221225481,3221225482,3221225481,3221225481,3221225483,3221225481,3221225481,3221225481,3221225481,3221225482,3221225483,3221225481,3221225481,3221225483,3221225481,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+</data>
+ </layer>
+ <objectgroup id="4" name="对象层 2">
+  <object id="30" gid="20" x="984.794" y="1762.33" width="1000" height="714"/>
+  <object id="31" gid="21" x="1973.11" y="2333.72" width="597" height="418"/>
+  <object id="32" gid="22" x="940.025" y="2609.77" width="597" height="418"/>
+  <object id="33" gid="22" x="2261.7" y="1204.44" width="597" height="418"/>
+  <object id="37" name="沼泽" x="2108" y="1588" width="612" height="284">
+   <properties>
+    <property name="type" value="swamp"/>
+   </properties>
+  </object>
+ </objectgroup>
+ <objectgroup id="3" name="对象层 1">
+  <object id="1" gid="30" x="1021.66" y="1414.47" width="357.442" height="373.802">
+   <properties>
+    <property name="scale" value="0.85"/>
+   </properties>
+  </object>
+  <object id="5" gid="27" x="1661.56" y="1259.11" width="141" height="83"/>
+  <object id="6" gid="27" x="1406.43" y="1526.79" width="141" height="83"/>
+  <object id="7" gid="27" x="2297.31" y="2158.35" width="141" height="83"/>
+  <object id="8" gid="27" x="1151.3" y="2543.15" width="141" height="83"/>
+  <object id="9" gid="27" x="1916.7" y="1263.3" width="141" height="83"/>
+  <object id="10" gid="29" x="2548.53" y="880.583" width="159.905" height="188.54"/>
+  <object id="11" gid="29" x="907.622" y="2022.41" width="130.627" height="159.262">
+   <properties>
+    <property name="scale" value="0.7"/>
+   </properties>
+  </object>
+  <object id="12" gid="26" x="1449.25" y="1456.06" width="139" height="68"/>
+  <object id="13" gid="26" x="1273.59" y="1510.43" width="139" height="68"/>
+  <object id="14" gid="26" x="1252.68" y="1748.83" width="139" height="68"/>
+  <object id="15" gid="26" x="1842.41" y="2342.75" width="139" height="68"/>
+  <object id="17" gid="26" x="2243.93" y="2313.47" width="139" height="68"/>
+  <object id="18" gid="26" x="2093.36" y="2259.1" width="139" height="68"/>
+  <object id="19" gid="26" x="1984.62" y="2208.91" width="139" height="68"/>
+  <object id="20" gid="26" x="2076.63" y="2401.31" width="139" height="68"/>
+  <object id="21" gid="26" x="2503.25" y="1548.07" width="139" height="68"/>
+  <object id="23" gid="23" x="1615.4" y="1839.93" width="408" height="200"/>
+  <object id="25" gid="25" x="1512.63" y="1666.45" width="213" height="103"/>
+  <object id="26" gid="25" x="1261.68" y="2461.13" width="213" height="103"/>
+  <object id="34" gid="30" x="2180.22" y="1155.15" width="227.787" height="248.327">
+   <properties>
+    <property name="scale" value="0.6"/>
+   </properties>
+  </object>
+  <object id="35" gid="30" x="892.002" y="2706.87" width="265.429" height="265.057">
+   <properties>
+    <property name="scale" value="0.6"/>
+   </properties>
+  </object>
+  <object id="36" gid="30" x="1398.09" y="2844.89" width="261.247" height="290.152">
+   <properties>
+    <property name="scale" value="0.6"/>
+   </properties>
+  </object>
+ </objectgroup>
+</map>
